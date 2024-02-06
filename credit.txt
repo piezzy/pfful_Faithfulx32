@@ -1,0 +1,12 @@
+Credits:
+
+Previous Editor: Defib
+
+Faithful Base: Vattic's Faithful x32
+
+I took another texture that looks better in my eyes from: Faithful Classic 1.19.4 x32 Jappa
+Water/skies/lightmap: Hazza's Cookie Pack x16
+Bow sound: Birch Pack
+
+
+
